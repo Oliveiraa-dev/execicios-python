@@ -1,8 +1,7 @@
-# TODO: Correção de Herança Simples
+# TODO
 
-- [x] 1. Confirmar plano com usuário
-- [x] 2. Editar 00 heranca_simples.py com exemplo Animal/Cachorro
-- [x] 3. Editar 01 Herança_Múltipla.py (exemplo múltipla)
-- [ ] 4. Testar execução
-- [ ] 5. Completar tarefa
+- [x] 1. Confirmar escopo: organizar 2 repositórios (fazendo_exemplos_basicos_de_python.py e trilha-python-dio)
+- [x] 2. Criar README profissional e direto em `fazendo_exemplos_basicos_de_python.py/`
+- [x] 3. Criar README profissional e direto em `trilha-python-dio/`
+- [ ] 4. (Opcional) Ajustar READMEs dentro de subpastas principais, se você quiser ainda mais detalhamento
 
